@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeofencingDemo</string>
+    <string name="channel_id">Geofence Demo</string>
+    <string name="geofence">Geofence</string>
+</resources>
